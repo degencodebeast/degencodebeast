@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a fullstack blockchain developer that's good with Solidity, React and Typescript.<br>🔨I build dapps on EVM chains, solana and polkadot.<br>👯 I’m looking to bring your ideas to life through code and also collaborate on different hackathons.<br>🤝 I’m looking for help with system design and landing freelance roles<br>🌱 I’m currently learning Rust<br>💬 Ask me about Solidity, Typescript, React<br>
+🔭 I’m a fullstack blockchain developer that's good with Solidity, React and Typescript.<br>🔨 I build dapps on EVM chains, solana and polkadot.<br>👯 I’m looking to bring your ideas to life through code and also collaborate on different hackathons.<br>🤝 I’m looking for help with system design and landing freelance roles<br>🌱 I’m currently learning Rust<br>💬 Ask me about Solidity, Typescript, React<br>
 
 
 ## 🌐 Socials:
